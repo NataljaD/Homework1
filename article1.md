@@ -166,3 +166,8 @@ your project, we recommend using [GitHub Pages](https://pages.github.com).
 
 
 Весь текст був взятий [тут](https://guides.github.com/features/wikis/) :crystal_ball:
+
+-----------------------
+**_Igor_M_**:
+
+> Одна з картинок у файлі не відображається.
