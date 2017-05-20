@@ -31,6 +31,8 @@ _Оцінюватись буде робочий процес_
 	- Issues 
 	- Projects 
 	- Pull Requests.
+	
+Буде корисно почитати [цей](https://github.com/NataljaD/Homework1/blob/master/article1.md) ресурc :globe_with_meridians:	
 
 -----------------------
 **_Alex_**:
