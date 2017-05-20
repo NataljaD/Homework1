@@ -170,3 +170,6 @@ your project, we recommend using [GitHub Pages](https://pages.github.com).
 **_Igor_M_**:
 
 > Одна з картинок у файлі не відображається.
+>
+> **_Admin_**:
+> > Виправили.
